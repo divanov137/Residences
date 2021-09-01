@@ -1,7 +1,9 @@
 # Residences
 Analyse residential property datasets from:
 1) https://www.propertypriceregister.ie/
-2) https://data.cso.ie/
+Residential Property Price Register - includes information about all residence sales made in Ireland since 2010
+3) https://data.cso.ie/
+Residential Propery Price Index (RPPI) - shows how the RPPI changes with time
 
 The goals are:
 1) Clean and combine the data
