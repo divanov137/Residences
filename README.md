@@ -5,8 +5,8 @@ Residential Property Price Register - includes information about all residence s
 3) https://data.cso.ie/
 Residential Propery Price Index (RPPI) - shows how the RPPI changes with time
 
-The goals are:
+Content:
 1) Clean and combine the data
 2) Perform exploratory data analysis
-3) Identify outliers - residences that were sold for abnormally high or low prices
-4) Forecast future prices
+3) Identify outliers - residences that were sold for abnormally high or low prices - Z-scores, isolation forests, DBSCAN
+4) Forecast future prices - ARIMA models
