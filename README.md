@@ -8,5 +8,5 @@ Residential Propery Price Index (RPPI) - shows how the RPPI changes with time
 Content:
 1) Clean and combine the data
 2) Perform exploratory data analysis
-3) Identify outliers - residences that were sold for abnormally high or low prices - Z-scores, isolation forests, DBSCAN
+3) Identify outliers - residences that were sold for abnormally high or low prices - Z-scores, isolation forests, K-means clustering
 4) Forecast future prices - ARIMA models
